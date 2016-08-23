@@ -1,0 +1,27 @@
+.blue-block {
+  width:33%;
+  background-color: rgb(62, 124, 217);
+  height: 990px;
+  float: left;
+}
+
+.green-block {
+  width: 33%;
+  background-color:rgb(51, 205, 150);
+  height: 990px;
+  float: left;
+}
+
+.yellow-block {
+  width:33%;
+  background-color: rgb(195, 224, 125);
+  height: 990px;
+  float: left;
+}
+
+div.image {
+  margin-top: 695px;
+  content: url(https://pbs.twimg.com/profile_images/648907414587072512/RSKdI5dQ.png);
+  position: absolute;
+  width: inherit;
+}
